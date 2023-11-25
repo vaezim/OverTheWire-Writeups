@@ -6,5 +6,9 @@
 3) **url** + `/files`
 4) **url** + `/robots.txt` & **url** + `/s3cr3t/`
 5) Edit the ***Referer*** value
-![natas5](.media/natas5.png)
+
+<p align="center">
+  <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas5.png" />
+</p>
+
 6)
