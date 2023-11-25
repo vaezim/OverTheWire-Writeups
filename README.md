@@ -11,4 +11,10 @@
   <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas5.png" />
 </p>
 
-6)
+6) Set `Cookie: Loggedin=1`
+
+<p align="center">
+  <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas6.png" />
+</p>
+
+7)
