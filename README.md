@@ -23,4 +23,12 @@
 https://github.com/vaezim/OverTheWire-Writeups/blob/c6f9570f6202bc18fe202eb9f16317a5565657f9/natas/code/natas8.php#L1-L10
 9) Find words containing: `a /etc/natas_webpass/natas10;`
 10) Find words containing: `a /etc/natas_webpass/natas11`
-11) 
+11) First find the XOR key used by the server side using default cookie data:
+
+<p align="center">
+  <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas11.png" />
+</p>
+
+then set `$default_data["showpassword"] = "yes"`:
+https://github.com/vaezim/OverTheWire-Writeups/blob/504cad6dd664197c39c6eb1b1d3543c966fea285/natas/code/natas11.php#L1-L22
+12)
