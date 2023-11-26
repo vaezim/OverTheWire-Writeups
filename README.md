@@ -21,4 +21,5 @@
 8) **url** + `index.php?page=/etc/natas_webpass/natas8`
 9) Decode the encoded secret:
 https://github.com/vaezim/OverTheWire-Writeups/blob/c6f9570f6202bc18fe202eb9f16317a5565657f9/natas/code/natas8.php#L1-L10
-10) 
+10) Find words containing: `a /etc/natas_webpass/natas10;`
+11) 
