@@ -17,4 +17,5 @@
   <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas6.png" />
 </p>
 
-7) 
+7) **url** + `includes/secret.inc` & page source
+8) 
