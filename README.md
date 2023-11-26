@@ -18,4 +18,5 @@
 </p>
 
 7) **url** + `includes/secret.inc` & page source
-8) 
+8) **url** + `index.php?page=/etc/natas_webpass/natas8`
+9) 
