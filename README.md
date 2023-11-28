@@ -31,10 +31,13 @@ https://github.com/vaezim/OverTheWire-Writeups/blob/c6f9570f6202bc18fe202eb9f163
 
 then set `$default_data["showpassword"] = "yes"`:
 https://github.com/vaezim/OverTheWire-Writeups/blob/504cad6dd664197c39c6eb1b1d3543c966fea285/natas/code/natas11.php#L1-L22
-12) Upload a php file to print the output of the command `cat /etc/natas_webpass/natas13`. 
 
+12) Upload a php file to print the output of the command `cat /etc/natas_webpass/natas13`. 
+https://github.com/vaezim/OverTheWire-Writeups/blob/42949a4d90b62dd42459b38b19ea3bfbf7383178/natas/code/natas12.php#L1-L6
 Then change the `filename` request parameter to a string with `.php` extension:
 
 <p align="center">
   <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas12.png" />
 </p>
+
+13) 
