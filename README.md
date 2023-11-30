@@ -40,4 +40,8 @@ Then change the `filename` request parameter to a string with `.php` extension:
   <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas12.png" />
 </p>
 
-13) jpeg magic number: `ff d8 ff e0`
+13) We need to put jpeg's magic number `ff d8 ff e0` to the beginning of the file.
+https://github.com/vaezim/OverTheWire-Writeups/blob/43b85356b6dd37cf4d54d27396e0dea988d5d008/natas/code/natas13.py#L1-L15
+The rest is the same as level 12.
+
+14) 
