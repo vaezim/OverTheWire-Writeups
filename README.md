@@ -40,4 +40,4 @@ Then change the `filename` request parameter to a string with `.php` extension:
   <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas12.png" />
 </p>
 
-13) 
+13) jpeg magic number: `ff d8 ff e0`
