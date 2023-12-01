@@ -44,4 +44,16 @@ Then change the `filename` request parameter to a string with `.php` extension:
 https://github.com/vaezim/OverTheWire-Writeups/blob/43b85356b6dd37cf4d54d27396e0dea988d5d008/natas/code/natas13.py#L1-L15
 The rest is the same as level 12.
 
-14) 
+14) Add `debug` key to the query parameters:
+
+<p align="center">
+  <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas14.png" />
+</p>
+
+SQL Injection:
+```
+username = " or true; -- 
+password = <Anything>
+```
+
+15) 
