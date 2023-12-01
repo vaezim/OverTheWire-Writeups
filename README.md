@@ -50,6 +50,6 @@ The rest is the same as level 12.
   <img src="https://github.com/vaezim/OverTheWire-Writeups/blob/master/natas/media/natas14.png" />
 </p>
 
-SQL Injection: username = `" or true; -- ` & password = `<Anything>`
+**SQL Injection**: username = `" or true; -- ` & password = `<Anything>`
 
 15) 
